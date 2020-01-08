@@ -1,5 +1,6 @@
 Excerpt from the corpus:
 
+ID	FORM 	_	POS	LABEL	_	HEAD	DEPREL	DEPRELS	_
 82	Dann    _       ADVO    O       _       0       root    _	_ 
 83	etwa	_	ADVO	O	_	0	root	_	_ 
 84	drei	_	CARD	B-Bedingung	_	86	Zeitangabe	_	_ 
