@@ -1,4 +1,4 @@
-Excerpt from the corpus:
+Excerpt from the corpus in CoNLL-U format:
 
 ID	FORM 	_	POS	LABEL	_	HEAD	DEPREL	DEPRELS	_
 
