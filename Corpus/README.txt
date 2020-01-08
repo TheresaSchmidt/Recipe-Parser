@@ -1,6 +1,6 @@
 Excerpt from the corpus:
 
-82    Dann    _       ADVO    O       _       0       root    _	_ 
+82	Dann    _       ADVO    O       _       0       root    _	_ 
 83	etwa	_	ADVO	O	_	0	root	_	_ 
 84	drei	_	CARD	B-Bedingung	_	86	Zeitangabe	_	_ 
 85	Minuten	_	NN	L-Bedingung	_	86	Zeitangabe	_	_ 
