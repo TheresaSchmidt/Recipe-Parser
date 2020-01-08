@@ -106,8 +106,8 @@
         },
         "use_mst_decoding_for_validation": true
     },
-    "train_data_path": "/home/CE/theresas/Allen/longtext_dependencies_train_corpus.conllu",
-    "validation_data_path": "/home/CE/theresas/Allen/longtext_dependencies_validation_corpus.conllu",
+    "train_data_path": "../Corpus/longtext_dependencies_train_corpus.conllu",
+    "validation_data_path": "../Corpus/longtext_dependencies_validation_corpus.conllu",
     "trainer": {
         "cuda_device": 3,
         "grad_norm": 5,
