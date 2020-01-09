@@ -1,4 +1,6 @@
-Excerpt from the corpus in CoNLL-U format:
+POS tags (STTS) are included in the corpus but were not used for parsing. They were annotated with the ParZu parser (https://github.com/rsennrich/ParZu).
+
+Excerpt from the corpus (in CoNLL-U format):
 
 ID	FORM 	_	POS	LABEL	_	HEAD	DEPREL	DEPRELS	_
 
@@ -13,3 +15,21 @@ ID	FORM 	_	POS	LABEL	_	HEAD	DEPREL	DEPRELS	_
 90	Rum	_	NN	L-Zutat	_	91	Input	_	_ 
 91	unterrühren	_	VVINF	U-Kochschritt	_	100	Nullanapher	_	_ 
 
+
+
+Excerpt in ConLL2003 format (= only labels, no relations):
+
+TOKEN	POS	O	LABEL
+
+Dann	ADV	O	O
+etwa	ADV	O	O
+drei	CARD	O	B-Bedingung
+Minuten	NN	O	L-Bedingung
+cremig	ADJD	O	B-Kochschritt
+rühren	VVINF	O	L-Kochschritt
+.	$.	O	O
+
+Den	ART	O	B-Zutat
+Rum	NN	O	L-Zutat
+unterrühren	VVINF	O	U-Kochschritt
+.	$.	O	O
